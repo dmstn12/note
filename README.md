@@ -40,4 +40,4 @@ import는 직접 작성하지 않고 **단축키**인 `Ctrl+Shift+O`(inline code
 ![카지노](https://newsimg.sedaily.com/2023/04/25/29OFVMCOJZ_2.jpg)
 
 오늘도 연봉이 10원 올랐습니다.  
-![좋아 역시 최고야!](./Hi.gif)
+![좋아 역시 최고야!](./hi.gif)
