@@ -37,4 +37,4 @@ import는 직접 작성하지 않고 **단축키**인 `Ctrl+Shift+O`(inline code
 난수 생성의 원리가 궁금하면  [위키백과](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8) 에서 확인할 수 있습니다.
 
 ##### 이미지 링크 추가 방법
-![카지노](https://media.istockphoto.com/id/1158005632/ko/%EC%82%AC%EC%A7%84/%ED%81%AC%EB%A3%A8%ED%94%BC%EC%96%B4%EB%8A%94-%EA%B7%B8%EC%9D%98-%EC%86%90%EC%97%90-%EC%B9%B4%EC%A7%80%EB%85%B8%EC%97%90%EC%84%9C-%EB%A3%B0%EB%A0%9B-%EA%B3%B5%EC%9D%84-%EB%93%A4%EA%B3%A0%EC%9E%88%EB%8B%A4.jpg?s=2048x2048&w=is&k=20&c=ymzJuMlf-fx37eiGvolrMD9HGTEzDFD2pPWAufU2A_I=)
+![카지노](https://newsimg.sedaily.com/2023/04/25/29OFVMCOJZ_2.jpg)
